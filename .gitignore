@@ -6,6 +6,8 @@ venv/
 
 # Jupyter
 .ipynb_checkpoints/
+.jupyter/
+.jupyter_ystore.db
 
 # OS / editor
 .DS_Store
